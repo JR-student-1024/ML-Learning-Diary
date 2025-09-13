@@ -3,12 +3,13 @@
 学习ML基础
 ---
 
-##学习内容:  
+#学习内容:  
 
-什么是ML? "ML is the field of study that gives computers the ability without being explicity programmed."  
+什么是ML?
+>"ML is the field of study that gives computers the ability without being explicity programmed."  
 简单来说就是放入素材交给计算机训练, 让计算机自己输出正确的答案而不需要人为的写非常精确的代码.
 
-机器学习有多个算法  
+机器学习有多个算法:   
 -supervised learning
 -unspervised learning
 -recommentder systems
