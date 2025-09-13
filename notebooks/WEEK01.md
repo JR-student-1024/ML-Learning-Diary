@@ -1,4 +1,4 @@
-<img width="627" height="339" alt="image" src="https://github.com/user-attachments/assets/96314dc8-f7d9-402a-bfbe-5992cf45cf83" /># WEEK0  
+# WEEK0  
 2025.9.13  
 学习ML基础
 ---
